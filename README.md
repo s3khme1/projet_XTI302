@@ -1,3 +1,5 @@
+# IL Y'A EU DE PROBLEMES DE COMMIT ET DE GESTION DE COMPTE GITHUB, TOUT LE MONDE A ACTIVEMENT PARTICIPé AU TRAVAIL 
+
 # Projet XTI302-CYB – Durcissement d'un serveur Debian 13
 
 Groupe : Charles Seny Yao, Kahina Alouache--Sainz, Gianni Laurent.
