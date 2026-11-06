@@ -1,0 +1,7 @@
+# C3 - droits sudo
+Defaults        use_pty
+Defaults        logfile="/var/log/sudo.log"
+Defaults:support !lecture
+
+%admins         ALL=(ALL:ALL) ALL
+support         ALL=(root) NOPASSWD: /usr/local/sbin/analyse_logs.sh

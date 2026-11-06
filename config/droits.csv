@@ -1,0 +1,11 @@
+repertoire;groupe;droits
+/srv/projets;dev;rw
+/srv/projets;design;r
+/srv/projets;freelance;x
+/srv/projets/externe;dev;rw
+/srv/projets/externe;design;r
+/srv/projets/externe;freelance;rw
+/srv/maquettes;dev;r
+/srv/maquettes;design;rw
+/srv/maquettes;commercial;r
+/srv/clients;commercial;rw

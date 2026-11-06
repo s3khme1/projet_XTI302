@@ -1,0 +1,5 @@
+*.key
+id_*
+!config/cles/*.pub
+*.swp
+*.pdf
